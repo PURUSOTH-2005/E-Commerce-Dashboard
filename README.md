@@ -255,7 +255,7 @@ ecommerce-analytics/
 
 ---
 
-## 👤 Author
+## 👤 Purusothaman S
 
 **Your Name**
 📧 s.purusothaman1234@gmail.com
